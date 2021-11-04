@@ -1,2 +1,2 @@
-# Glocose-APP-Android
+# Glucose-APP-Android
 Glocose Detection APP with Android
